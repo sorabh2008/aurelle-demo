@@ -1,6 +1,8 @@
-# RideRelay demo (draft)
+# Aurelle demo (draft)
 
-Static, fully mocked product demo. Sample data only, with no backend.
-Login: demo / demo.
+Static, fully mocked chauffeur booking demo. Sample data and sample fares only. There is no backend, no payments and nothing is sent anywhere.
 
-Built from taxi-services `web/` (single-file Vite build). Do not edit here: rebuild and redeploy instead.
+- Customer login: customer / customer
+- Partner area (Aurelle Partners): demo / demo
+
+This repo holds only the built file from the private source repo. Do not edit here: rebuild and redeploy instead.
